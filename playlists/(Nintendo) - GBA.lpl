@@ -1,0 +1,35 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 3,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 2,
+  "items": [
+    {
+      "path": "..\\RetroArch\\roms\\GBA\\塞尔达传说 缩小帽.gba",
+      "label": "塞尔达传说 缩小帽",
+      "core_path": "..\\RetroArch\\cores\\vba_next_libretro.dll",
+      "core_name": "Nintendo - Game Boy Advance (VBA Next)",
+      "crc32": "00000000|crc",
+      "db_name": "(Nintendo) - GBA.lpl"
+    },
+    {
+      "path": "..\\RetroArch\\roms\\GBA\\最终幻想 V.gba",
+      "label": "最终幻想 V",
+      "core_path": "..\\RetroArch\\cores\\vba_next_libretro.dll",
+      "core_name": "Nintendo - Game Boy Advance (VBA Next)",
+      "crc32": "00000000|crc",
+      "db_name": "(Nintendo) - GBA.lpl"
+    },
+    {
+      "path": "..\\RetroArch\\roms\\GBA\\最终幻想 VI.gba",
+      "label": "最终幻想 VI",
+      "core_path": "..\\RetroArch\\cores\\vba_next_libretro.dll",
+      "core_name": "Nintendo - Game Boy Advance (VBA Next)",
+      "crc32": "00000000|crc",
+      "db_name": "(Nintendo) - GBA.lpl"
+    }
+  ]
+}

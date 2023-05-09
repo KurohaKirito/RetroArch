@@ -1,0 +1,59 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 3,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 2,
+  "items": [
+    {
+      "path": "..\\RetroArch\\roms\\NDS\\Dragon Quest IV - Chapters of the Chosen.nds",
+      "label": "Dragon Quest IV - Chapters of the Chosen",
+      "core_path": "..\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "00000000|crc",
+      "db_name": "(Nintendo) - NDS.lpl"
+    },
+    {
+      "path": "..\\RetroArch\\roms\\NDS\\Dragon Quest V - Hand of the Heavenly Bride.nds",
+      "label": "Dragon Quest V - Hand of the Heavenly Bride",
+      "core_path": "..\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "00000000|crc",
+      "db_name": "(Nintendo) - NDS.lpl"
+    },
+    {
+      "path": "..\\RetroArch\\roms\\NDS\\Dragon Quest VI - Realms of Revelation.nds",
+      "label": "Dragon Quest VI - Realms of Revelation",
+      "core_path": "..\\RetroArch\\cores\\desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "(Nintendo) - NDS.lpl"
+    },
+    {
+      "path": "..\\RetroArch\\roms\\NDS\\Dragon Quest IX - Sentinels of the Starry Skies.nds",
+      "label": "Dragon Quest IX - Sentinels of the Starry Skies",
+      "core_path": "..\\RetroArch\\cores\\desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "(Nintendo) - NDS.lpl"
+    },
+    {
+      "path": "..\\RetroArch\\roms\\NDS\\Matal Max 2 Reloaded.nds",
+      "label": "Matal Max 2 Reloaded",
+      "core_path": "..\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "00000000|crc",
+      "db_name": "(Nintendo) - NDS.lpl"
+    },
+    {
+      "path": "..\\RetroArch\\roms\\NDS\\Chrono Trigger.nds",
+      "label": "Chrono Trigger",
+      "core_path": "..\\RetroArch\\cores\\desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "(Nintendo) - NDS.lpl"
+    }
+  ]
+}

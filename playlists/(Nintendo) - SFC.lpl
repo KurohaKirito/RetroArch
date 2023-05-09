@@ -1,0 +1,35 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 3,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 2,
+  "items": [
+    {
+      "path": "..\\RetroArch\\roms\\SFC\\勇者斗恶龙 I - II.sfc",
+      "label": "勇者斗恶龙 I - II",
+      "core_path": "..\\RetroArch\\cores\\mesen-s_libretro.dll",
+      "core_name": "Nintendo - SNES / SFC / Game Boy / Color (Mesen-S)",
+      "crc32": "00000000|crc",
+      "db_name": "(Nintendo) - SFC.lpl"
+    },
+    {
+      "path": "..\\RetroArch\\roms\\SFC\\勇者斗恶龙 III.sfc",
+      "label": "勇者斗恶龙 III",
+      "core_path": "..\\RetroArch\\cores\\snes9x2005_plus_libretro.dll",
+      "core_name": "Nintendo - SNES / SFC (Snes9x 2005 Plus)",
+      "crc32": "00000000|crc",
+      "db_name": "(Nintendo) - SFC.lpl"
+    },
+    {
+      "path": "..\\RetroArch\\roms\\SFC\\重装机兵 Returns.smc",
+      "label": "重装机兵 Returns",
+      "core_path": "..\\RetroArch\\cores\\mesen-s_libretro.dll",
+      "core_name": "Nintendo - SNES / SFC / Game Boy / Color (Mesen-S)",
+      "crc32": "00000000|crc",
+      "db_name": "(Nintendo) - SFC.lpl"
+    }
+  ]
+}

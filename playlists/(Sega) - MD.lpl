@@ -1,0 +1,19 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 3,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 2,
+  "items": [
+    {
+      "path": "..\\RetroArch\\roms\\MD\\梦幻之星 千年纪的终结.bin",
+      "label": "梦幻之星 千年纪的终结",
+      "core_path": "..\\RetroArch\\cores\\genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "(Sega) - MD.lpl"
+    }
+  ]
+}
