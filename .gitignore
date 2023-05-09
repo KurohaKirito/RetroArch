@@ -1,0 +1,88 @@
+﻿# 忽略根目录下所有文件和目录
+*
+
+# 忽略文件
+!/LICENSE
+!/.gitignore
+
+# 增加目录
+!/assets/
+!/assets/ozone/
+!/assets/pkg/
+!/assets/wallpapers/
+!/assets/xmb/
+!/assets/xmb/monochrome/
+!/assets/xmb/monochrome/png/
+!/autoconfig/
+!/autoconfig/*/
+!/config/
+!/config/*/
+!/config/*/*/
+!/cores/
+!/info/
+!/pictures/
+!/playlists/
+!/roms/
+!/roms/*/
+!/saves/
+!/saves/*/
+!/states/
+!/states/*/
+!/thumbnails/
+!/thumbnails/*/
+!/thumbnails/*/*/
+
+# 添加字体
+!/assets/ozone/bold.ttf
+!/assets/ozone/regular.ttf
+!/assets/pkg/chinese-fallback-font.ttf
+!/assets/pkg/fallback-font.ttf
+!/assets/pkg/korean-fallback-font.ttf
+!/assets/pkg/osd-font.ttf
+
+# 添加图标
+!/assets/xmb/monochrome/png/(Nintendo) - FC-content.png
+!/assets/xmb/monochrome/png/(Nintendo) - FC.png
+!/assets/xmb/monochrome/png/(Nintendo) - GBA-content.png
+!/assets/xmb/monochrome/png/(Nintendo) - GBA.png
+!/assets/xmb/monochrome/png/(Nintendo) - NDS-content.png
+!/assets/xmb/monochrome/png/(Nintendo) - NDS.png
+!/assets/xmb/monochrome/png/(Nintendo) - SFC-content.png
+!/assets/xmb/monochrome/png/(Nintendo) - SFC.png
+!/assets/xmb/monochrome/png/(Sega) - MD-content.png
+!/assets/xmb/monochrome/png/(Sega) - MD.png
+
+# 添加壁纸
+!/assets/wallpapers/*
+
+# 添加核心
+!/cores/*.dll
+
+# 添加 readme
+!/pictures/*.png
+!/readme.md
+
+# 增加游戏列表
+!/playlists/*.lpl
+
+# 增加游戏存档
+!/saves/*/*
+
+# 增加即时存档
+!/states/*/*
+
+# 增加缩略图
+!/thumbnails/*/*/*
+
+# 增加软件设置
+!/retroarch.cfg
+
+# 监听文件
+!/autoconfig/*
+!/autoconfig/*/*
+!/config/*
+!/config/*/*
+!/config/*/*/*
+!/info/*
+!/roms/*
+!/roms/*/*
