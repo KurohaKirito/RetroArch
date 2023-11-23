@@ -26,16 +26,16 @@
     {
       "path": "..\\RetroArch\\roms\\NDS\\Dragon Quest VI - Realms of Revelation.nds",
       "label": "Dragon Quest VI - Realms of Revelation",
-      "core_path": "..\\RetroArch\\cores\\desmume_libretro.dll",
-      "core_name": "Nintendo - DS (DeSmuME)",
+      "core_path": "..\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
       "crc32": "00000000|crc",
       "db_name": "(Nintendo) - NDS.lpl"
     },
     {
       "path": "..\\RetroArch\\roms\\NDS\\Dragon Quest IX - Sentinels of the Starry Skies.nds",
       "label": "Dragon Quest IX - Sentinels of the Starry Skies",
-      "core_path": "..\\RetroArch\\cores\\desmume_libretro.dll",
-      "core_name": "Nintendo - DS (DeSmuME)",
+      "core_path": "..\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
       "crc32": "00000000|crc",
       "db_name": "(Nintendo) - NDS.lpl"
     },

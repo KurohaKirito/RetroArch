@@ -1,4 +1,6 @@
-﻿# 忽略根目录下所有文件和目录
+﻿# 使用方法: 先添加目录, 目录要逐级添加, 之后再添加文件
+
+# 忽略根目录下所有文件和目录
 *
 
 # 忽略文件
@@ -31,6 +33,8 @@
 !/thumbnails/
 !/thumbnails/*/
 !/thumbnails/*/*/
+!/mdpro2/
+!/mdpro2/deck/
 
 # 添加字体
 !/assets/ozone/bold.ttf
@@ -86,3 +90,6 @@
 !/info/*
 !/roms/*
 !/roms/*/*
+
+# 游戏王卡组
+!/mdpro2/deck/*
