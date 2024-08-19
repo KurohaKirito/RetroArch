@@ -8,6 +8,14 @@
   "sort_mode": 2,
   "items": [
     {
+      "path": "..\\RetroArch\\roms\\GBA\\魔剑镇魂曲.gba",
+      "label": "魔剑镇魂曲",
+      "core_path": "..\\RetroArch\\cores\\vba_next_libretro.dll",
+      "core_name": "Nintendo - Game Boy Advance (VBA Next)",
+      "crc32": "00000000|crc",
+      "db_name": "(Nintendo) - GBA.lpl"
+    },
+    {
       "path": "..\\RetroArch\\roms\\GBA\\召唤之夜 铸剑物语.gba",
       "label": "召唤之夜 铸剑物语",
       "core_path": "..\\RetroArch\\cores\\vba_next_libretro.dll",

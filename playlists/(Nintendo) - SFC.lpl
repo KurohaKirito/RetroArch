@@ -22,14 +22,6 @@
       "core_name": "Nintendo - SNES / SFC (Snes9x 2005 Plus)",
       "crc32": "00000000|crc",
       "db_name": "(Nintendo) - SFC.lpl"
-    },
-    {
-      "path": "..\\RetroArch\\roms\\SFC\\重装机兵 Returns.smc",
-      "label": "重装机兵 Returns",
-      "core_path": "..\\RetroArch\\cores\\mesen-s_libretro.dll",
-      "core_name": "Nintendo - SNES / SFC / Game Boy / Color (Mesen-S)",
-      "crc32": "00000000|crc",
-      "db_name": "(Nintendo) - SFC.lpl"
     }
   ]
 }
