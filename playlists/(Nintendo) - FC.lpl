@@ -46,6 +46,14 @@
       "core_name": "Nintendo - NES / Famicom (Mesen)",
       "crc32": "00000000|crc",
       "db_name": "(Nintendo) - FC.lpl"
+    },
+    {
+      "path": "..\\RetroArch\\roms\\FC\\海军之蓝.nes",
+      "label": "海军之蓝",
+      "core_path": "..\\RetroArch\\cores\\mesen_libretro.dll",
+      "core_name": "Nintendo - NES / Famicom (Mesen)",
+      "crc32": "00000000|crc",
+      "db_name": "(Nintendo) - FC.lpl"
     }
   ]
 }
