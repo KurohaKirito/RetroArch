@@ -54,6 +54,30 @@
       "core_name": "Nintendo - Game Boy Advance (VBA Next)",
       "crc32": "00000000|crc",
       "db_name": "(Nintendo) - GBA.lpl"
+    },
+    {
+      "path": "..\\RetroArch\\roms\\GBA\\封印之剑.gba",
+      "label": "封印之剑",
+      "core_path": "..\\RetroArch\\cores\\vba_next_libretro.dll",
+      "core_name": "Nintendo - Game Boy Advance (VBA Next)",
+      "crc32": "00000000|crc",
+      "db_name": "(Nintendo) - GBA.lpl"
+    },
+    {
+      "path": "..\\RetroArch\\roms\\GBA\\烈火之剑.gba",
+      "label": "烈火之剑",
+      "core_path": "..\\RetroArch\\cores\\vba_next_libretro.dll",
+      "core_name": "Nintendo - Game Boy Advance (VBA Next)",
+      "crc32": "00000000|crc",
+      "db_name": "(Nintendo) - GBA.lpl"
+    },
+    {
+      "path": "..\\RetroArch\\roms\\GBA\\圣魔之光石.gba",
+      "label": "圣魔之光石",
+      "core_path": "..\\RetroArch\\cores\\vba_next_libretro.dll",
+      "core_name": "Nintendo - Game Boy Advance (VBA Next)",
+      "crc32": "00000000|crc",
+      "db_name": "(Nintendo) - GBA.lpl"
     }
   ]
 }
