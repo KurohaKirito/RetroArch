@@ -8,49 +8,73 @@
   "sort_mode": 2,
   "items": [
     {
-      "path": "..\\RetroArch\\roms\\GBA\\魔剑镇魂曲.gba",
+      "path": "roms\\GBA\\魔剑镇魂曲.gba",
       "label": "魔剑镇魂曲",
-      "core_path": "..\\RetroArch\\cores\\vba_next_libretro.dll",
+      "core_path": "cores\\vba_next_libretro.dll",
       "core_name": "Nintendo - Game Boy Advance (VBA Next)",
       "crc32": "00000000|crc",
       "db_name": "(Nintendo) - GBA.lpl"
     },
     {
-      "path": "..\\RetroArch\\roms\\GBA\\召唤之夜 铸剑物语.gba",
+      "path": "roms\\GBA\\召唤之夜 铸剑物语.gba",
       "label": "召唤之夜 铸剑物语",
-      "core_path": "..\\RetroArch\\cores\\vba_next_libretro.dll",
+      "core_path": "cores\\vba_next_libretro.dll",
       "core_name": "Nintendo - Game Boy Advance (VBA Next)",
       "crc32": "00000000|crc",
       "db_name": "(Nintendo) - GBA.lpl"
     },
     {
-      "path": "..\\RetroArch\\roms\\GBA\\召唤之夜 铸剑物语 2.gba",
+      "path": "roms\\GBA\\召唤之夜 铸剑物语 2.gba",
       "label": "召唤之夜 铸剑物语 2",
-      "core_path": "..\\RetroArch\\cores\\vba_next_libretro.dll",
+      "core_path": "cores\\vba_next_libretro.dll",
       "core_name": "Nintendo - Game Boy Advance (VBA Next)",
       "crc32": "00000000|crc",
       "db_name": "(Nintendo) - GBA.lpl"
     },
     {
-      "path": "..\\RetroArch\\roms\\GBA\\塞尔达传说 缩小帽.gba",
+      "path": "roms\\GBA\\塞尔达传说 缩小帽.gba",
       "label": "塞尔达传说 缩小帽",
-      "core_path": "..\\RetroArch\\cores\\vba_next_libretro.dll",
+      "core_path": "cores\\vba_next_libretro.dll",
       "core_name": "Nintendo - Game Boy Advance (VBA Next)",
       "crc32": "00000000|crc",
       "db_name": "(Nintendo) - GBA.lpl"
     },
     {
-      "path": "..\\RetroArch\\roms\\GBA\\最终幻想 V.gba",
+      "path": "roms\\GBA\\最终幻想 V.gba",
       "label": "最终幻想 V",
-      "core_path": "..\\RetroArch\\cores\\vba_next_libretro.dll",
+      "core_path": "cores\\vba_next_libretro.dll",
       "core_name": "Nintendo - Game Boy Advance (VBA Next)",
       "crc32": "00000000|crc",
       "db_name": "(Nintendo) - GBA.lpl"
     },
     {
-      "path": "..\\RetroArch\\roms\\GBA\\最终幻想 VI.gba",
+      "path": "roms\\GBA\\最终幻想 VI.gba",
       "label": "最终幻想 VI",
-      "core_path": "..\\RetroArch\\cores\\vba_next_libretro.dll",
+      "core_path": "cores\\vba_next_libretro.dll",
+      "core_name": "Nintendo - Game Boy Advance (VBA Next)",
+      "crc32": "00000000|crc",
+      "db_name": "(Nintendo) - GBA.lpl"
+    },
+    {
+      "path": "roms\\GBA\\封印之剑.gba",
+      "label": "封印之剑",
+      "core_path": "cores\\vba_next_libretro.dll",
+      "core_name": "Nintendo - Game Boy Advance (VBA Next)",
+      "crc32": "00000000|crc",
+      "db_name": "(Nintendo) - GBA.lpl"
+    },
+    {
+      "path": "roms\\GBA\\烈火之剑.gba",
+      "label": "烈火之剑",
+      "core_path": "cores\\vba_next_libretro.dll",
+      "core_name": "Nintendo - Game Boy Advance (VBA Next)",
+      "crc32": "00000000|crc",
+      "db_name": "(Nintendo) - GBA.lpl"
+    },
+    {
+      "path": "roms\\GBA\\圣魔之光石.gba",
+      "label": "圣魔之光石",
+      "core_path": "cores\\vba_next_libretro.dll",
       "core_name": "Nintendo - Game Boy Advance (VBA Next)",
       "crc32": "00000000|crc",
       "db_name": "(Nintendo) - GBA.lpl"
